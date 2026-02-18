@@ -1,0 +1,6 @@
+data/
+video_demo/
+*.csv
+*.mp4
+__pycache__/
+.venv/
