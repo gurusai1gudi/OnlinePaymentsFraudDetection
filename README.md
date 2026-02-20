@@ -2,7 +2,9 @@
 ### Project - Online Payments Fraud Detection using ML
 ### Team Members 1 Alikepalli Harsha Vardhan Reddy(22BFA05004)  2 Gurusai Gudi (22BFA05044)    3 Vamsi Hari Krishna Pandra (22BFA05053) 
 
-
+# LINKS:
+- Video link:  https://1drv.ms/v/c/fcf39855090e6d41/IQDLh79RAdgoQ6IG0v8U5AuzAfhqbbnU-tfuBgldHErN2Jw?e=Houzmg
+- datasetlink: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 # 🛡️ Online Payments Fraud Detection using Machine Learning
 
 A complete Machine Learning + Flask web application that detects fraudulent online payment transactions using multiple ML algorithms and deploys the selected model for real-time prediction.
